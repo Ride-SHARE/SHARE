@@ -40,12 +40,15 @@ Steps to run the project:
     
     cabCapacity = This represents the maximum number of passengers in the cab.
     
-    Optional: starttime -> The start time of the simulation in the day
+    Optional: 
+                
+              starttime -> The start time of the simulation in the day
     
               endtime -> The end time of the simulation in the day
     
     
     Thus, a sample command would look like: ./a.out NY 1.2 dex 0.3 hun 4000 3 480 570
+    
     Here, the definitions for each variable have been mentioned in the paper.
     
     
