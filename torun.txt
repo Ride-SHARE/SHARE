@@ -1,7 +1,0 @@
-g++ -O3 realtime_simulation.cpp Hungarian.cpp
-
-./a.out NY 1.2 dag 0.1 pxa 200 2 480 600 | tee sgdex.out
-
-
-hpc:
-g++ -O3 -std=c++0x realtime_simulation.cpp Hungarian.cpp
