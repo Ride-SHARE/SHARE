@@ -13,7 +13,7 @@ Steps to run the project:
     This will generate the 'a.out' file and then execute it with parameters.
     
 4. To run :
-    Usage: ./a.out [location={BJ|SF|NY|SG}] [alpha=1.3] [route={dij|dag|dex}] [maxDepth=0.2] [assign={hun|gsp|pxa|sdp}] [maxCab=2000] [cabCapacity=2] [Optional: starttime endtime]
+    Usage: ./a.out [location={SF|NY|SG}] [alpha=1.3] [route={dij|dag|dex}] [maxDepth=0.2] [assign={hun|gsp|pxa|sdp}] [maxCab=2000] [cabCapacity=2] [Optional: starttime endtime]
     
     Thus, a sample command would look like: ./a.out NY 1.2 dex 0.3 hun 4000 3 480 570
     Here, the definitions for each variable have been mentioned in the paper.
